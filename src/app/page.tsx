@@ -8,5 +8,5 @@ const page = () => {
     <Button variant="outline">Click me</Button>
     </div>
   )
-}
+}np
 export default page 
